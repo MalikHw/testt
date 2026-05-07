@@ -7,13 +7,13 @@
         "ios": "2.2081"
     },
     "version": "1.0.0",
-    "id": "malikhw47.GEODE-PROJECT-NAME",
-    "name": "GEODE-PROJECT-NAME",
+    "id": "malikhw47.testt",
+    "name": "testt",
     "developer": "MalikHw47",
     "description": "desc.",
     "tags": ["yes", "yeah"],
     "links": {
-        "source": "https://github.com/MalikHw/GEODE-PROJECT-NAME",
+        "source": "https://github.com/MalikHw/testt",
         "community": "https://discord.gg/G9bZ92eg2n"
     },
     "settings": {}
